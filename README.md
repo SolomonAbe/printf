@@ -60,7 +60,7 @@ These are all the tasks of this project, the ones that are completed link to the
 * Handle the precision for non-custom conversion specifiers.
 
 ### 12. It's depressing when you're still around and your albums are out of print
-* Handle the 0 flag character for non-custom conversion specifiers.
+* Handle the 0 flag character for non-custom conversion specifiers.l
 
 ### 13. Every time that I wanted to give up, if I saw an interesting textile, print what ever, suddenly I would see a collection]
 * Handle the - flag character for non-custom conversion specifiers.
